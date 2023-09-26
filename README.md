@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Mowanes_Waleed" target="blank"><img src="https://img.shields.io/twitter/follow/Mowanes_Waleed?logo=twitter&style=for-the-badge" alt="Mowanes_Waleed" /></a> </p>
 
-- 📫 How to reach me **a7med.y.d@gmail.com**
+- 📫 How to reach me **waleedmowanes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
